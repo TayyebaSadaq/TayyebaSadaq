@@ -1,5 +1,5 @@
 # 👾 My name is Tayyeba Sadaq
-**`Second year BSc Computer Science student`**
+**Second year BSc Computer Science student**
    <p align="left">
       <a href="https://www.linkedin.com/in/tayyeba-sadaq-ba1a53265/">
          <img alt="LinkedIn" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
