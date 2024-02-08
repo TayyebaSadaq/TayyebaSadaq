@@ -33,14 +33,16 @@
 
 ---
 ## 👨🏻‍💻Current Projects
-🎲[Number Guessing Game](https://github.com/TayyebaSadaq/NumberGuessingGame)
+🎲 [Number Guessing Game](https://github.com/TayyebaSadaq/NumberGuessingGame)
 
-🌳[Text-Based Adventure Game](https://github.com/TayyebaSadaq/AdventureGame)
+🌳 [Text-Based Adventure Game](https://github.com/TayyebaSadaq/AdventureGame)
 
-🐄[Farm RPG - Group Project](https://github.com/TayyebaSadaq/FarmAdventure)
+🐄 [Farm RPG - Group Project](https://github.com/TayyebaSadaq/FarmAdventure)
 
-🖼️[3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
+🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
-🌐[Book Blog](https://github.com/TayyebaSadaq/BookBlog)
+🌐 [Book Blog](https://github.com/TayyebaSadaq/BookBlog)
 
 💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
+   
+🌷 [Women in STEM blog](https://github.com/Womenin-STEM/Womenin-Stem.github.io)
