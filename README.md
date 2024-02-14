@@ -41,7 +41,7 @@
 
 🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
-🌐 [Book Blog](https://github.com/TayyebaSadaq/BookBlog)
+🌐 [Book Tracker](https://github.com/TayyebaSadaq/BookBlog)
 
 💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
    
