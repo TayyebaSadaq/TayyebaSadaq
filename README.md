@@ -45,7 +45,8 @@
 
 🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
-🌐 [Book Tracker](https://github.com/TayyebaSadaq/BookTracker)
+<!--🌐 [Book Tracker](https://github.com/TayyebaSadaq/BookTracker)-->
+🦕 [Offline Jump Game Clone](https://github.com/TayyebaSadaq/Jumper-Game)
 
 💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
    
