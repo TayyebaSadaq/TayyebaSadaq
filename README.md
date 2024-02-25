@@ -43,6 +43,7 @@
 
 🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
+🍲 [Recipe Roulette - CFG Javascript Group Project](https://github.com/TayyebaSadaq/Recipe-Roulette)
 <!--🌐 [Book Tracker](https://github.com/TayyebaSadaq/BookTracker)-->
 🦕 [Offline Jump Game Clone](https://github.com/TayyebaSadaq/Jumper-Game)
 
