@@ -29,7 +29,7 @@
 
 <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <br>
 <br>
@@ -38,8 +38,6 @@
 ---
 ## 👨🏻‍💻Current Projects
 🎲 [Number Guessing Game](https://github.com/TayyebaSadaq/NumberGuessingGame)
-
-🌳 [Text-Based Adventure Game](https://github.com/TayyebaSadaq/AdventureGame)
 
 🐄 [Farm RPG - Group Project](https://github.com/TayyebaSadaq/FarmAdventure)
 
