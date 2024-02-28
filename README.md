@@ -50,3 +50,5 @@
 💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
    
 🌷 [Women in STEM blog](https://github.com/Womenin-STEM/Womenin-Stem.github.io)
+
+🎨 [Graphic Projects](https://github.com/TayyebaSadaq/Graphic-Projects)
