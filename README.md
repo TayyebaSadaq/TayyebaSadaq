@@ -39,7 +39,6 @@
 ## 👨🏻‍💻Current Projects
 🎲 [Number Guessing Game](https://github.com/TayyebaSadaq/NumberGuessingGame)
 
-🐄 [Farm RPG - Group Project](https://github.com/TayyebaSadaq/FarmAdventure)
 
 🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
