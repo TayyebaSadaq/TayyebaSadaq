@@ -31,6 +31,8 @@
 
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+<img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
 <br>
 <br>
 <br>
@@ -43,7 +45,7 @@
 🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
 🍲 [Recipe Roulette - CFG Javascript Group Project](https://github.com/TayyebaSadaq/Recipe-Roulette)
-<!--🌐 [Book Tracker](https://github.com/TayyebaSadaq/BookTracker)-->
+
 🦕 [Offline Jump Game Clone](https://github.com/TayyebaSadaq/Jumper-Game)
 
 💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
@@ -51,3 +53,9 @@
 🌷 [Women in STEM blog](https://github.com/Womenin-STEM/Womenin-Stem.github.io)
 
 🎨 [Graphic Projects](https://github.com/TayyebaSadaq/Graphic-Projects)
+
+🙋 [Aid Worker Simulation](https://github.com/TayyebaSadaq/Aid-Worker-Simulation)
+
+✈️ [Airline Management System](https://github.com/TayyebaSadaq/AirlineManagementSystem)
+
+<!--🚗 [Car Insurance System with API]-->
