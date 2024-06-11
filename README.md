@@ -1,63 +1,32 @@
-# 👾 My name is Tayyeba Sadaq
-**BSc (Hons) Computer Science student**
-<br>
-Portfolio:  https://tayyebasadaq.github.io
-   <p align="left">
-      <a href="https://www.linkedin.com/in/tayyeba-sadaq-ba1a53265/">
-         <img alt="LinkedIn" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-/></a> 
+# Hi, I'm Tayyeba 👋
+👩🏽‍💻 Currently a student going into my final year<br>
+💻 Studying Computer Science at the University of Derby<br>
+🔀 Still deciding my path for after graduation and what I want to specialise in<br>
+💭 Currently taking count on what I know to apply it
 
-   </p>
+# 🤖 Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br/>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-## ⚙️ Languages and Tools
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="left" alt="c#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-
-<img align="left" alt="c" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-<img align="left" alt="c++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-<img align="left" alt="VScode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="PHP" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-<br>
-<br>
-<br>
-
----
-## 👨🏻‍💻Current Projects
-🎲 [Number Guessing Game](https://github.com/TayyebaSadaq/NumberGuessingGame)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TayyebaSadaq&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TayyebaSadaq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-🖼️ [3D Computer Graphics](https://github.com/TayyebaSadaq/3D-ComputerGraphics)
 
-🍲 [Recipe Roulette - CFG Javascript Group Project](https://github.com/TayyebaSadaq/Recipe-Roulette)
-
-🦕 [Offline Jump Game Clone](https://github.com/TayyebaSadaq/Jumper-Game)
-
-💬 [Real Time Chat Application](https://github.com/TayyebaSadaq/RealTimeChatApp)
-   
-🌷 [Women in STEM blog](https://github.com/Womenin-STEM/Womenin-Stem.github.io)
-
-🎨 [Graphic Projects](https://github.com/TayyebaSadaq/Graphic-Projects)
-
-🙋 [Aid Worker Simulation](https://github.com/TayyebaSadaq/Aid-Worker-Simulation)
-
-✈️ [Airline Management System](https://github.com/TayyebaSadaq/AirlineManagementSystem)
-
-<!--🚗 [Car Insurance System with API]-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
