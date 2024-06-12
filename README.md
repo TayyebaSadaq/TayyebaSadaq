@@ -23,7 +23,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TayyebaSadaq&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayyebaSadaq&show_icons=true&theme=panda)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TayyebaSadaq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
