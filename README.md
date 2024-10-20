@@ -1,7 +1,6 @@
 # Hi, I'm Tayyeba 👋
 👩🏽‍💻 Currently a student in my final year<br>
 💻 Studying Computer Science at the University of Derby<br>
-💭 Currently taking count on what I know to apply it
 
 # 🤖 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
