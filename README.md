@@ -1,7 +1,6 @@
 # Hi, I'm Tayyeba 👋
-👩🏽‍💻 Currently a student going into my final year<br>
+👩🏽‍💻 Currently a student in my final year<br>
 💻 Studying Computer Science at the University of Derby<br>
-🔀 Still deciding my path for after graduation and what I want to specialise in<br>
 💭 Currently taking count on what I know to apply it
 
 # 🤖 Tech Stack
