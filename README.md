@@ -31,9 +31,9 @@
 ### 🌼 Projects I’m proud of:
 | ✨ | Project | Description |
 |--|--|--|
-| 🌱 | [Glow](https://github.com/TayyebaSadaq/glow) | Nature-themed self-care app to track wellness, skincare & PCOS |
-| 🧠 | [MiniLang Interpreter](https://github.com/TayyebaSadaq/interpreter-stage-6) | A Python interpreter from scratch – now supports variables, loops, lists, and more |
-| 📚 | [Uni Projects](https://github.com/TayyebaSadaq?tab=repositories&q=assignment) | My CS journey: assignments, tools, and challenges |
+| 🌱 | Glow| A self-care app to track wellness, skincare & PCOS |
+| 🧠 | [MiniLang Interpreter](https://github.com/TayyebaSadaq/Language-design-and-implementation) | A Python interpreter from scratch – now supports variables, loops, lists, and more |
+| 📚 | [Dissertation Project](https://github.com/TayyebaSadaq/Diabetes-Prediction-using-Machine-Learning-and-Explainable-AI-Techniques) | Diabetes Diagnosis tool with ML and XAI|
 
 ---
 
@@ -42,9 +42,11 @@
   <a href="https://www.linkedin.com/in/tayyeba-sadaq/">
     <img src="https://img.shields.io/badge/LinkedIn-98c9a3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  
+  <a href="mailto:tayyeba.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-c3e7b0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://github.com/TayyebaSadaq">
     <img src="https://img.shields.io/badge/GitHub-b7d3b3?style=for-the-badge&logo=github&logoColor=white" />
   </a>
