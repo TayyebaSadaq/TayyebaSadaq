@@ -10,7 +10,6 @@
 ### 🍃 A little about me:
 - 🎓 Computer Science grad from the UK  
 - ☀️ I love making intuitive, gentle tech that helps people  
-- 🌸 Building **Glow** – a self-care app for PCOS, skincare & journaling  
 - ✨ Open to grad roles in **data** or **software engineering**  
 - 🍵 Always learning, always sipping chai
 
@@ -31,7 +30,6 @@
 ### 🌼 Projects I’m proud of:
 | ✨ | Project | Description |
 |--|--|--|
-| 🌱 | Glow| A self-care app to track wellness, skincare & PCOS |
 | 🧠 | [MiniLang Interpreter](https://github.com/TayyebaSadaq/Language-design-and-implementation) | A Python interpreter from scratch – now supports variables, loops, lists, and more |
 | 📚 | [Dissertation Project](https://github.com/TayyebaSadaq/Diabetes-Prediction-using-Machine-Learning-and-Explainable-AI-Techniques) | Diabetes Diagnosis tool with ML and XAI|
 
