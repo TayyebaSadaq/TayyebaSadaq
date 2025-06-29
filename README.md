@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Python-98c9a3?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-c9e4c5?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-d3ead2?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-SQL-b3cbb9?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
