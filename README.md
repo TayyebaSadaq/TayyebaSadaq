@@ -18,9 +18,6 @@
 ### 🛠️ Tech I play with:
 <p>
   <img src="https://img.shields.io/badge/-Python-98c9a3?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-c3e7b0?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-ccd6aa?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-b7d3b3?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-c9e4c5?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-d3ead2?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
@@ -32,7 +29,7 @@
 |--|--|--|
 | 🧠 | [MiniLang Interpreter](https://github.com/TayyebaSadaq/Language-design-and-implementation) | A Python interpreter from scratch – now supports variables, loops, lists, and more |
 | 📚 | [Dissertation Project](https://github.com/TayyebaSadaq/Diabetes-Prediction-using-Machine-Learning-and-Explainable-AI-Techniques) | Diabetes Diagnosis tool with ML and XAI|
-
+| 📚 | [Mindful Breaks](https://tayyebasadaq.github.io/Mindful-Breaks/) | Relaxing Pomodoro timer with breathing exercises to help monitor screen usage and time spent working|
 ---
 
 ### 💌 Let's connect!
