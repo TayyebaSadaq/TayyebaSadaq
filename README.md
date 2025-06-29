@@ -2,16 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Tayyeba+🌿&center=true&width=500&height=50&color=98c9a3">
 </div>
 <p align="center" style="font-family: 'Comic Neue', cursive, sans-serif; color: #98c9a3; font-size: 24px; font-weight: 400;">
-  🎓 Computer Science grad · Coder of cozy apps · Obsessed with soft UI and meaningful tech
+  🎓 Computer Science grad · Obsessed with soft UI and meaningful tech
 </p>
 
 ---
 
 ### 🍃 A little about me:
 - 🎓 Computer Science grad from the UK  
-- ☀️ I love making intuitive, gentle tech that helps people  
-- ✨ Open to grad roles in **data** or **software engineering**  
-- 🍵 Always learning, always sipping chai
+- ☀️ I love making intuitive tech that helps people  
+- ✨ Open to grad roles in **data**, **Python Development** or **software engineering**  
 
 ---
 
