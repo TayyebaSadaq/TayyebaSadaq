@@ -30,7 +30,7 @@
 | 🧠 | [MiniLang Interpreter](https://github.com/TayyebaSadaq/Language-design-and-implementation) | A Python interpreter from scratch – now supports variables, loops, lists, and more |
 | 📚 | [Dissertation Project](https://github.com/TayyebaSadaq/Diabetes-Prediction-using-Machine-Learning-and-Explainable-AI-Techniques) | Diabetes Diagnosis tool with ML and XAI|
 | ⏳ | [Mindful Breaks](https://tayyebasadaq.github.io/Mindful-Breaks/) | Relaxing Pomodoro timer with breathing exercises to help monitor screen usage and time spent working|
-| 👨‍⚕️ | [Improving Patient Experience with AI](https://github.com/TayyebaSadaq/Improving-Patient-experience-using-AI) | AI solution predicting patients at risk of clinical deterioration based on healthcare data|
+| 👨‍⚕️ | [Improving Patient Experience with AI](https://github.com/TayyebaSadaq/diabetes-prediction-dissertation)| AI solution predicting patients at risk of clinical deterioration based on healthcare data|
 | 📚 |[Goodreads Scraper](https://github.com/TayyebaSadaq/goodreads-scraper) | Goodread Scraper and book recommendation system|
 ---
 
