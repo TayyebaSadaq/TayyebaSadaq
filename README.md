@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Tayyeba+🌿&center=true&width=500&height=50&color=98c9a3">
 </div>
 <p align="center" style="font-family: 'Comic Neue', cursive, sans-serif; color: #98c9a3; font-size: 24px; font-weight: 400;">
-  🎓 Computer Science grad · Obsessed with soft UI and meaningful tech
+  🎓 Computer Science grad · Obsessed with meaningful and sustainable tech
 </p>
 
 ---
