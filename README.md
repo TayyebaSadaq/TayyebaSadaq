@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Tayyeba+🌿&center=true&width=500&height=50&color=98c9a3">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Tayyeba+🌸&center=true&width=500&height=50&color=eda6c7">
 </div>
-<p align="center" style="font-family: 'Comic Neue', cursive, sans-serif; color: #98c9a3; font-size: 24px; font-weight: 400;">
+<p align="center" style="font-family: 'Comic Neue', cursive, sans-serif; color: #eda6c7; font-size: 24px; font-weight: 400;">
   🎓 Computer Science grad · Obsessed with meaningful and sustainable tech
 </p>
 
 ---
 
-### 🍃 A little about me:
+### 🌸 A little about me:
 - 🎓 Computer Science grad from the UK  
-- ☀️ I love making intuitive tech that helps people  
-- ✨ Open to grad roles in **data**, **Python Development** or **software engineering**  
+- 🩷 I love making intuitive tech that helps people  
+- 🐇 Open to roles in **data**, **Python Development** or **software engineering**  
 
 ---
 
 ### 🛠️ Tech I play with:
 <p>
-  <img src="https://img.shields.io/badge/-Python-98c9a3?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-c9e4c5?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-d3ead2?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-SQL-b3cbb9?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-eda6c7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-eda6c7?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-eda6c7?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-SQL-eda6c7?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
