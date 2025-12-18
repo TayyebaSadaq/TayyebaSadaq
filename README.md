@@ -38,20 +38,20 @@
 ### 💌 Let's connect!
 <p>
   <a href="https://www.linkedin.com/in/tayyeba-sadaq/">
-    <img src="https://img.shields.io/badge/LinkedIn-98c9a3?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-eda6c7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="mailto:tayyeba.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c3e7b0?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-eda6c7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://github.com/TayyebaSadaq">
-    <img src="https://img.shields.io/badge/GitHub-b7d3b3?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-eda6c7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creating+calm+tech+🌸;Powered+by+curiosity+%26+chai+☕;Always+learning...&center=true&width=440&height=45&color=98c9a3">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creating+calm+tech+🌸;Powered+by+curiosity+%26+chai+☕;Always+learning...&center=true&width=440&height=45&color=eda6c7">
 </div>
